@@ -96,7 +96,7 @@ Please note that pirating will not be supported, as many books are available for
 - [Open Bug Bounty](https://www.openbugbounty.org/) Unique platform with a focus on responsible disclosure. Allows researchers to report vulnerabilities to websites without fear of legal consequences
 - [YesWeHack](https://www.yeswehack.com/) European bug bounty platform with a wide range of programs and collaboration with cybersecurity experts. Offers a Responsible Disclosure program for non-monetary rewards
 - [Zerodium](https://zerodium.com/program.html) Zerodium pays BIG bounties to security researchers to acquire their original and previously unreported zero-day research
-- [Huntr](https://huntr.com/)The world’s first bug bounty platform for AI/ML.
+- [Huntr](https://huntr.com/) The world’s first bug bounty platform for AI/ML.
 - [Intigriti](https://www.intigriti.com/) Global crowdsourced security provider, trusted by world's largest organizations.
 ### Vulnerable Software:
 - [VulnHub](https://www.vulnhub.com/) Virtual machines available for download to practice hacking.
